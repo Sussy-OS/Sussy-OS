@@ -1,5 +1,5 @@
 - 👋 Hi, We are @Sussy-OS
-- 👀 Look out for the 1st edition of SussyS0S, an operating system that is Among Us themed!
+- 👀 Look out for the 1st edition of SussyS0S, desktop sussy tools!
 - 📫 Email us at SussyS0S-Operating-Systems@protonmail.com
 
 <!---
