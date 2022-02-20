@@ -3,7 +3,7 @@
 - 📫 Email us at SussyS0S-Operating-Systems@protonmail.com
 
 
-![Sussy Stats](https://github-readme-stats.vercel.app/api?username=Sussy-OS&show_icons=true&theme=solarized-light)
+![Sussy Stats](https://github-readme-stats.vercel.app/api?username=Sussy-OS&show_icons=true&bg_color=DEG,ef709b,fa9372)
 [![TheBananaStore](https://github-readme-stats.vercel.app/api/pin/?username=TheBananaStore&repo=TheBananaStore&theme=solarized-light)](https://github.com/TheBananaStore/TheBananaStore)
 
 <!---
