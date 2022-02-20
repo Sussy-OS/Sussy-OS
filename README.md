@@ -2,6 +2,9 @@
 - 👀 Look out for the 1st edition of SussyS0S, desktop sussy tools!
 - 📫 Email us at SussyS0S-Operating-Systems@protonmail.com
 
+
+![Sussy Stats](https://github-readme-stats.vercel.app/api?username=Sussy-OS&show_icons=true&theme=solarized-light)
+
 <!---
 Sussy-OS/Sussy-OS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
