@@ -4,6 +4,7 @@
 
 
 ![Sussy Stats](https://github-readme-stats.vercel.app/api?username=Sussy-OS&show_icons=true&theme=solarized-light)
+[![TheBananaStore](https://github-readme-stats.vercel.app/api/pin/?username=TheBananaStore&repo=TheBananaStore)](https://github.com/TheBananaStore/github-readme-stats)
 
 <!---
 Sussy-OS/Sussy-OS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
