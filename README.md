@@ -4,7 +4,9 @@
 
 
 ![Sussy Stats](https://github-readme-stats.vercel.app/api?username=Sussy-OS&show_icons=true&theme=solarized-light)
-[![TheBananaStore](https://github-readme-stats.vercel.app/api/pin/?username=TheBananaStore&repo=TheBananaStore)](https://github.com/TheBananaStore/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sussy-OS&layout=compact)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sussy-OS)
+[![TheBananaStore](https://github-readme-stats.vercel.app/api/pin/?username=TheBananaStore&repo=TheBananaStore&theme=solarized-light)](https://github.com/TheBananaStore/TheBananaStore)
 
 <!---
 Sussy-OS/Sussy-OS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
