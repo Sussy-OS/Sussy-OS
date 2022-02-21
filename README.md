@@ -3,6 +3,8 @@
 - 📫 Email us at SussyS0S-Operating-Systems@protonmail.com
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
 ![Sussy Stats](https://github-readme-stats.vercel.app/api?username=Sussy-OS&show_icons=true&bg_color=DEG,fa9372,e67097)
 [![TheBananaStore](https://github-readme-stats.vercel.app/api/pin/?username=TheBananaStore&repo=TheBananaStore&bg_color=DEG,fa9372,e67097)](https://github.com/TheBananaStore/TheBananaStore)
 
