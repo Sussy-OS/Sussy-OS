@@ -1,3 +1,4 @@
+[<img src="https://raw.githubusercontent.com/Sussy-OS/Sussy-OS/main/profile-views.svg" height="50"/>](https://github.com/Sussy-OS)
 - 👋 Hi, We are @Sussy-OS
 - 👀 Look out for the 1st edition of SussyS0S, desktop sussy tools!
 - 📫 Email us at SussyS0S-Operating-Systems@protonmail.com
